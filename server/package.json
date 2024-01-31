@@ -9,7 +9,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "vinay vishwakarma",
+  "author": "Sandesh Vighe",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
